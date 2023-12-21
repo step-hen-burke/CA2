@@ -5,3 +5,8 @@ requests
 beautifulsoup4
 tqdm
 pyyaml
+scipy
+openpyxl
+scikit-learn
+nltk
+statsmodels
