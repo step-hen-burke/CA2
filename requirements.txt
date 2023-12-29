@@ -9,4 +9,5 @@ scipy
 openpyxl
 scikit-learn
 nltk
+contractions
 statsmodels
