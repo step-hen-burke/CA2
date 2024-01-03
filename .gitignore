@@ -1,4 +1,5 @@
 data/
 charts/
+models/
 .ipynb_checkpoints/
 reddit_credentials.yaml

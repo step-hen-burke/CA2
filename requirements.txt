@@ -15,6 +15,7 @@ holidays
 xgboost
 lightgbm
 umap-learn
+imbalanced-learn
 plotly
 plotly-express
 dash
