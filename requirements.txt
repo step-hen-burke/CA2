@@ -18,3 +18,4 @@ umap-learn
 plotly
 plotly-express
 dash
+dash-bootstrap-components
