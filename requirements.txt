@@ -5,6 +5,8 @@ requests
 beautifulsoup4
 tqdm
 pyyaml
+unittest
+pprint
 scipy
 openpyxl
 scikit-learn
@@ -16,6 +18,8 @@ xgboost
 lightgbm
 umap-learn
 imbalanced-learn
+matplotlib
+seaborn
 plotly
 plotly-express
 dash
